@@ -1,4 +1,4 @@
-# Consul
+# Influxdb
 ## 启动
 ``` SHELL
 docker-compose up -d
